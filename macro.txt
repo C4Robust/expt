@@ -1,0 +1,4 @@
+MACRO INCR4 &AR1, & AR2, &AR3
+A 1, &ARI
+A 2, &AR2
+A 3, &AR3
